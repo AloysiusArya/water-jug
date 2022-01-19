@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642611381 source:c:\users\aloy\downloads\c kuliah\waterjug\main.c
+	<stdio.h>
+	<stdlib.h>
+
